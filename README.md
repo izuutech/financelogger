@@ -6,6 +6,6 @@ This is a website/web application that collects information concerning your debt
 
 # To run 
 To run, clone or fork this repo then startup a live server from the directory and view via 
-https://localhost:<yourport>/public/
+https://localhost:"yourport"/public/
 
 Feel free to spice it up
