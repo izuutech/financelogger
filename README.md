@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a website/web application that collects information concerning your debt and credit records with their reasons. It then displays them properly for you to analyze. This project was built with typescript and plain html/css.
+This is a website/web application that collects information concerning your debt and credit records. It then displays them with their title so you analyze properly. This project was built with typescript and plain html/css.
 
 ## Preview
 
